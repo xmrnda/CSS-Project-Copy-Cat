@@ -1,0 +1,150 @@
+.black-top {
+    background-color: black;
+    margin: auto; 
+    position: sticky;
+}
+
+nav {
+    background-color: black;
+    margin: auto; 
+    position: sticky;
+}
+
+img.BTS-logo {
+    height: 9%;
+    width: 9%;
+}
+
+.fa-shopping-cart {
+    transform: translateX(1250px) translateY(-60px);
+}
+
+img.Jin-The-Astronaut {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+.Jin-Container .btn {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 12px 12px;
+    border: none;
+    cursor: pointer;
+    border-style: solid;
+    font-weight: bold;
+}
+
+img.Jack-In-The-Box {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+.JHope-Container .btn {
+    position: absolute;
+    top: 1020px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 12px 12px;
+    border: none;
+    cursor: pointer;
+    border-style: solid;
+    font-weight: bold;
+    
+}
+
+img.BTS-Proof {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+.BTS-Container .btn {
+    position: absolute;
+    top: 1515px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 12px 12px;
+    border: none;
+    cursor: pointer;
+    border-style: solid;
+    font-weight: bold;
+    
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
+div.text-container {
+    display: block;
+    padding: 7em;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    margin: 5px;
+}
+
+#email {
+    line-height: 40px;
+    margin: 25px;
+    width: 450px;
+    padding-left: 10px;
+}
+
+
+#button {
+    line-height: 30px;
+    margin: 20px;
+    margin: auto;
+    width: 300px;
+    padding: 10px;
+    background-color: black;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    display: block;
+}
+
+#button:hover {
+    background-color: rgb(45, 45, 45);
+}
+
+h6 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 9px;
+    display: block;
+    width: 465px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    line-height: 25px;
+}
+
+body {
+    background-color: black;
+}
